@@ -1,10 +1,10 @@
-# 🔐 Nebula Token Vault — Devnet
+# Nebula Token Vault — Devnet
 
 This repository demonstrates creating a Token Vault on Solana Devnet and locking custom SPL tokens inside.
 
 ---
 
-## 📌 Vault Information
+## Vault Information
 
 | Field | Value |
 |------|------|
@@ -13,7 +13,7 @@ This repository demonstrates creating a Token Vault on Solana Devnet and locking
 
 ---
 
-## ✅ Lock Transaction Details
+## Lock Transaction Details
 
 | Field | Value |
 |------|------|
@@ -21,16 +21,16 @@ This repository demonstrates creating a Token Vault on Solana Devnet and locking
 | **Mint Address** | `Fa3JUK2dokFJZgjDyXa5dSpRhrBb8veoNnpbw9zvqgzr` |
 | **Transaction Signature** | `4URpvJ4uJ1v6rP31NEuqBrn3hZTRC3GLecWnTEJohEefzAzEcacZj8x5ckjWL2Q1LHRYJh8JjMcMXVy1T7WwwEMw` |
 
-View transaction on Solscan 👇  
+View transaction on Solscan  
 https://solscan.io/tx/4URpvJ4uJ1v6rP31NEuqBrn3hZTRC3GLecWnTEJohEefzAzEcacZj8x5ckjWL2Q1LHRYJh8JjMcMXVy1T7WwwEMw?cluster=devnet
 
 ---
 
-## 🖥️ Screenshot Proof
+## Screenshot Proof
 
-> ✅ Screenshot showing successful vault + lock transaction output
+> Screenshot showing successful vault + lock transaction output
 
-## 🖥️ Screenshot Evidence
+## Screenshot Evidence
 
 ![Mint Success](./screenshots/vault-success.png)
 
